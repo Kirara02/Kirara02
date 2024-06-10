@@ -4,7 +4,7 @@
 <p>Android Developer | Flutter Enthusiast from Tasikmalaya, Indonesia 🇮🇩</p>
   
 [![](https://img.shields.io/badge/-Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/fathul-hidayat-dev/)
-[![](https://komarev.com/ghpvc/?username=im-o&color=blue)](https://github.com/Kirara02)
+[![](https://komarev.com/ghpvc/?username=Kirara02&color=blue)](https://github.com/Kirara02)
 <!-- [![](https://img.shields.io/github/stars/im-o?style=social)](https://github.com/im-o) -->
 </div>
 
