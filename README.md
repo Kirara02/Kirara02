@@ -13,12 +13,13 @@
 [![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
 [![](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](#)
 [![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](#)
 </div>
 
 <a align="center" href="#">
   <p align="center">
     <!-- JavaScript disembunyikan di sini -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirara02&hide=javascript,scss,css,tsql,blade,jupyter%20notebook,cmake,html&langs_count=7&theme=radical&layout=compact" alt="languages" height="165"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Kirara02&show_icons=true&theme=radical" alt="my github stats" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirara02&hide=javascript,scss,css,tsql,blade,jupyter%20notebook,cmake,html&langs_count=8&theme=radical&layout=compact" alt="Top Languages" width="420" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kirara02&show_icons=true&theme=radical" alt="GitHub Stats" width="420" height="180"/>
   </p>
 </a>
