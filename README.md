@@ -18,8 +18,8 @@
 
 <a align="center" href="#">
   <p align="center">
-    <!-- JavaScript disembunyikan di sini -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirara02&hide=javascript,scss,css,tsql,blade,jupyter%20notebook,cmake,html&langs_count=8&theme=radical&layout=compact" alt="Top Languages" width="420" height="190">
+    <!-- JavaScript dan Shell disembunyikan di sini -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirara02&hide=javascript,shell,scss,css,tsql,blade,jupyter%20notebook,cmake,html&langs_count=8&theme=radical&layout=compact" alt="Top Languages" width="420" height="190">
     <img src="https://github-readme-stats.vercel.app/api?username=Kirara02&show_icons=true&theme=radical" alt="GitHub Stats" width="420" height="190"/>
   </p>
 </a>
