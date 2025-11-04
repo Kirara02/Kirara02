@@ -13,7 +13,6 @@
 [![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
 [![](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](#)
 [![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
-[![](https://img.shields.io/badge/C%23-512BD4?logo=c-sharp&logoColor=white)](#)
 </div>
 
 <a align="center" href="#">
