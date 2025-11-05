@@ -13,6 +13,7 @@
 [![](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
 [![](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](#)
 [![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![](https://img.shields.io/badge/C%23-512BD4?logo=c-sharp&logoColor=white)](#)
 </div>
 
 <a align="center" href="#">
@@ -22,3 +23,35 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Kirara02&show_icons=true&theme=radical" alt="GitHub Stats" width="420" height="190"/>
   </p>
 </a>
+
+---
+
+### 🏆 GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kirara02&theme=radical&no-frame=true&margin-w=5&margin-h=5" alt="trophies" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirara02&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Code. Commit. Coffee. Repeat.” ☕</i>
+</p>
