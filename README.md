@@ -26,16 +26,9 @@
 
 ---
 
-### 🏆 GitHub Trophy
+### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kirara02&theme=radical&no-frame=true&margin-w=5&margin-h=5" alt="trophies" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kirara02&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirara02&theme=radical&hide_border=false" alt="activity graph"/>
 </p>
 
 ---
@@ -44,7 +37,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Go%20Fiber-00ADD8?logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
@@ -54,7 +47,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
 </p>
-
 
 ---
 
