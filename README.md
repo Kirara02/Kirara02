@@ -18,7 +18,7 @@
 
 <a align="center" href="#">
   <p align="center">
-    <!-- JavaScript dan Shell disembunyikan di sini -->
+    <!-- JavaScript & Shell disembunyikan -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirara02&hide=javascript,shell,scss,css,tsql,blade,jupyter%20notebook,cmake,html&langs_count=8&theme=radical&layout=compact" alt="Top Languages" width="420" height="190">
     <img src="https://github-readme-stats.vercel.app/api?username=Kirara02&show_icons=true&theme=radical" alt="GitHub Stats" width="420" height="190"/>
   </p>
@@ -35,7 +35,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirara02&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Kirara02&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -43,12 +43,18 @@
 ### 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go%20Fiber-00ADD8?logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
 </p>
+
 
 ---
 
