@@ -32,4 +32,4 @@ I build Android and Flutter apps, and lately been spending most of my time on AI
 ## Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/fathul-hidayat-dev/)
-- tsnanh0812@gmail.com
+- fahtul.singaparna@gmail.com
