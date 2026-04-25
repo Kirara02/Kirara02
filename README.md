@@ -13,7 +13,7 @@ Mobile Engineer, 3+ years. Based in Indonesia, open to remote.
 
 ## What I do
 
-I build Android and Flutter apps, and lately been spending most of my time on AI -- LLMs, on-device ML, speech-to-text pipelines. I also do backend work when needed.
+I build Android and Flutter apps. I also do backend work when needed.
 
 - **Mobile** -- Kotlin, Jetpack Compose, Flutter/Dart. Been using these for 3+ years
 - **Backend** -- .NET Core, Go (Fiber, Gin, Echo), Laravel, Typescript
